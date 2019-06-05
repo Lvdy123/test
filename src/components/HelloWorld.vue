@@ -49,7 +49,7 @@
         </li>
         <li>
           <a href="#">
-            <img src="../common/images/l1.jpg" alt>
+            <img src="../common/images/l1.jpg" >
           </a>
         </li>
       </ul>
